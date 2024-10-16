@@ -1,3 +1,3 @@
 #!/usr/bin/perl
-print "Hola Ramis!\n";
+print "Hola Menorca!\n";
 
